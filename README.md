@@ -26,11 +26,3 @@ Before run this project locally or deploy, i suggest you to read these articles:
 - https://nuxtjs.org/deployments/github-pages
 - https://nuxtjs.org/tutorials/creating-blog-with-nuxt-content/
 
-## Screenshots
-![nuxt blog theme](/screenshots/index.png "nuxt blog theme")
-
-![nuxt blog theme](/screenshots/blog.png "nuxt blog theme")
-
-![nuxt blog theme](/screenshots/single.png "nuxt blog theme")
-
-![nuxt blog theme](/screenshots/contact.png "nuxt blog theme")
