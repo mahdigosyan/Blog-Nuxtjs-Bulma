@@ -2,7 +2,7 @@
   <div>
     <Navbar />
     <p class="title has-text-centered mt-3">
-      صفحه مورد نظر یافت نشد
+      .صفحه مورد نظر یافت نشد
     </p>
     <NuxtLink to="/">
       <div class="has-text-centered mb-3">
