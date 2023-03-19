@@ -7,7 +7,7 @@
     <NuxtLink to="/">
       <div class="has-text-centered mb-3">
         <button class="button is-info">
-          بازگشت به صفحه اصلی
+          بازگشت به خانه
         </button>
       </div>
     </NuxtLink>
