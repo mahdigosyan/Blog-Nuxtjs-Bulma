@@ -10,3 +10,4 @@ author:
 tags:
   - html 
 ---
+<h1 class="has-text-centered title is-1">تفاوت arrow function با regular function در جاوا اسکریپت</h1>
