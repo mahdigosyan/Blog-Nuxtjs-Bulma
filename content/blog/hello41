@@ -1,0 +1,12 @@
+---
+title: ساخت یک YouTube Downloader با نود جی اس
+description: توی این پست میخواهیم یک یوتیوب دانلودر با استفاده از نود جی اس بسازیم تا به راحتی بتوانیم ویدیو های یوتیوب را دانلود کنیم
+img: https://files.virgool.io/upload/users/36797/posts/kyplsqf2tpph/raznn6cgucsl.png
+alt: ساخت یک YouTube Downloader با نود جی اس
+slug: node-js-youtube-downloader
+author:
+  name: مهدی
+  bio: قوسیان
+tags:
+  - nuxt
+---
