@@ -10,3 +10,4 @@ author:
 tags:
   - css 
 ---
+<h1 class="has-text-centered title is-1">آشنایی با دو متد ()find و ()some در جاوا اسکریپت</h1>
