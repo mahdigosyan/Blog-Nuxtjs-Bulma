@@ -19,5 +19,4 @@ tags:
 
 بگذریم، به هرحال راه‌هایی هست که بشه از اکانت جی‌میل به صورت رایگان روی دامین شخصی استفاده کرد، یکی از این راه‌ها استفاده از mailgun هست. و تفاوت اصلیش با خیلی از روش‌های دیگه این هست که نیاز نداریم سرور ایمیل رو خودمون اجرا یا مدیریت کنیم و فقط ثبت کردن یک دامنه شخصی برامون کافیه و هزینه‌ی هاست یا سرور رو از دوش خودمون برمیداریم.
 
-![The San Juan Mountains are beautiful!](https://files.virgool.io/upload/users/36797/posts/rzcaant9gxxx/5omute8lkpgh.png "San Juan Mountains")
-d
+![The San Juan Mountains are beautiful!](https://files.virgool.io/upload/users/36797/posts/rzcaant9gxxx/5omute8lkpgh.png "San Juan Mountains letch")
