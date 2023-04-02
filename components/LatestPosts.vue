@@ -15,4 +15,9 @@
         <LatestPostsItem :img="articles[2].img" :title="articles[2].title" :path="articles[2].path" :description="articles[2].description" />
       </div>
     </div>
+    <div class="columns">
+      <div class="column">
+        <LatestPostsItem :img="articles[3].img" :title="articles[3].title" :path="articles[3].path" :description="articles[3].description" />
+      </div>
+    </div>
     
