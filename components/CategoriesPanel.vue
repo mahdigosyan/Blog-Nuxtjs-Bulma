@@ -3,3 +3,21 @@
     <p class="is-centered">
       دسته بندی ها
     </p>
+    <hr>
+    <NuxtLink to="/blog/categories/js">
+      <button class="button is-light is-fullwidth mb-2">
+        جاوا اسکریپت
+      </button>
+    </NuxtLink>
+    <NuxtLink to="/blog/categories/nuxt">
+      <button class="button is-light is-fullwidth mb-2">
+        ناکست جی اس
+      </button>
+    </NuxtLink>
+    <NuxtLink to="/blog/categories/vue">
+      <button class="button is-light is-fullwidth mb-2">
+        ویو جی اس
+      </button>
+    </NuxtLink>
+  </div>
+</template>
