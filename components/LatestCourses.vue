@@ -4,4 +4,8 @@
       <div class="column">
         <LatestCoursesItem />
       </div>
-      
+      <div class="column">
+        <LatestCoursesItem />
+      </div>
+    </div>
+    
