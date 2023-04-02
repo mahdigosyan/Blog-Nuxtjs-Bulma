@@ -31,4 +31,16 @@
       </div>
     </div>
   </div>
-  
+  </template>
+
+<script>
+export default {
+  props: {
+    articles: {
+      type: Array,
+      default: null
+    }
+  }
+}
+</script>
+
