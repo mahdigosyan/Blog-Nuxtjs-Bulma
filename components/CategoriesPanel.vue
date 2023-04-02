@@ -21,3 +21,9 @@
     </NuxtLink>
   </div>
 </template>
+
+<script>
+export default {
+  name: 'CategoriesPanel'
+}
+</script>
