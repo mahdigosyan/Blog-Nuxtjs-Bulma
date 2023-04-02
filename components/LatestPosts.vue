@@ -5,4 +5,14 @@
         <LatestPostsItem :img="articles[0].img" :title="articles[0].title" :path="articles[0].path" :description="articles[0].description" />
       </div>
       </div>
-      
+      <div class="columns">
+      <div class="column">
+        <LatestPostsItem :img="articles[1].img" :title="articles[1].title" :path="articles[1].path" :description="articles[1].description" />
+      </div>
+    </div>
+    <div class="columns">
+      <div class="column">
+        <LatestPostsItem :img="articles[2].img" :title="articles[2].title" :path="articles[2].path" :description="articles[2].description" />
+      </div>
+    </div>
+    
