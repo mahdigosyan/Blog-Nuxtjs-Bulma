@@ -26,3 +26,28 @@
     </article>
   </div>
 </template>
+
+------------------------------
+
+<script>
+export default {
+  props: {
+    img: {
+      type: String,
+      default: ''
+    },
+    title: {
+      type: String,
+      default: ''
+    },
+    description: {
+      type: String,
+      default: ''
+    },
+    path: {
+      type: String,
+      default: ''
+    }
+  }
+}
+</script>
