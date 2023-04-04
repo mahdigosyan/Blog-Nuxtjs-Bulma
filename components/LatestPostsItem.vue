@@ -18,4 +18,11 @@
             </button>
           </NuxtLink>
         </div>
-        
+        <div class="media-left">
+        <figure class="image is-128x128">
+          <img :src="img" :alt="description">
+        </figure>
+      </div>
+    </article>
+  </div>
+</template>
